@@ -1,5 +1,5 @@
 # Assignments from HTML, CSS, and Javascript for Web Developers (Johns Hopkins University)
-Assignments from the Coursera course HTML, CSS, and Javascript for Web Developers (Johns Hopkins University).
+Assignments from the Coursera course [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers) (Johns Hopkins University).
 <br /> [Verified Certificate](https://www.coursera.org/account/accomplishments/verify/NZ84CQL6J8J4)
 
 - [Module 2 Solution](https://chiarastef.github.io/coursera-jhu-assignments/module2-solution/) (HTML & CSS - position, media queries)
